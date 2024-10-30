@@ -26,7 +26,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/derivatives_chatbot.git
+git clone https://github.com/fritzfroz/derivatives_rag_chatbot.git
 cd derivatives_chatbot
 Create and Activate a Virtual Environment:
 
