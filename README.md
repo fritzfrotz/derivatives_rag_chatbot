@@ -3,7 +3,9 @@ Derivatives Chatbot
 
 Welcome to the Derivatives Chatbot project! This interactive chatbot, built with Streamlit, LangChain, and OpenAI, provides answers to market finance questions, specifically focusing on derivatives. The bot retrieves relevant content from a document-based knowledge base, processes user questions, and generates concise responses. This README will guide you through the setup, usage, and structure of the project.
 
+
 Project Overview
+
 The chatbot leverages LangChain’s document retrieval and large language model (LLM) functionalities to answer derivatives-related questions. It includes features for:
 
 Document processing and text chunking
@@ -13,6 +15,7 @@ User feedback collection
 The chatbot interface is designed with Streamlit, featuring a user-friendly UI and customizable chat bubble design for better readability.
 
 Project Structure
+
 The project consists of two main files:
 
 app2.py: The main Streamlit application that handles the UI, manages conversation history, and interfaces with the backend functions.
@@ -57,6 +60,7 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_ENDPOINT=https://api.smith.langchain.com
 LANGCHAIN_API_KEY=your_langchain_api_key
 OPENAI_API_KEY=your_openai_api_key
+
 Load Data Files:
 
 Add your .docx files containing Q&A content related to market finance and derivatives to the ./data/ directory.
