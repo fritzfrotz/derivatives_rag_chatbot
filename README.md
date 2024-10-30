@@ -1,4 +1,3 @@
-Here's an updated README formatted for GitHub, incorporating your note that this is a project for the Derivatives Academy.
 
 Derivatives Chatbot 🤖
 Welcome to the Derivatives Chatbot project, developed for the Derivatives Academy! This interactive chatbot, built with Streamlit, LangChain, and OpenAI, is designed to answer market finance questions, specifically focusing on derivatives. The bot retrieves relevant content from a document-based knowledge base, processes user queries, and generates concise responses.
@@ -87,4 +86,3 @@ We welcome contributions! Feel free to fork the repository, create a new branch,
 📜 License
 This project is licensed under the MIT License.
 
-This README provides a comprehensive overview and setup guide, with clear instructions for future improvements and contributions. Update URLs, paths, or specific details as necessary based on your specific project setup.
