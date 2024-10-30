@@ -1,5 +1,6 @@
 
 Derivatives Chatbot
+
 Welcome to the Derivatives Chatbot project! This interactive chatbot, built with Streamlit, LangChain, and OpenAI, provides answers to market finance questions, specifically focusing on derivatives. The bot retrieves relevant content from a document-based knowledge base, processes user questions, and generates concise responses. This README will guide you through the setup, usage, and structure of the project.
 
 Project Overview
